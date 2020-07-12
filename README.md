@@ -1,2 +1,2 @@
-# WebServices
+# WebService
 Spring Boot - Java - WebServices
